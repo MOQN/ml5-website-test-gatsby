@@ -1,7 +1,10 @@
 # folder
+node_modules/
+.cache/
+.vscode/
+public
 archive/
 other/
-.vscode/
 
 # files
 .DS_Store
